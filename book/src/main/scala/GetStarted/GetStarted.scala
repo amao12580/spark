@@ -1,4 +1,4 @@
-package com.study.book
+package GetStarted
 
 /**
   * Created with IntelliJ IDEA.
